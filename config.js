@@ -45,31 +45,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/cekilgans'
-global.sgh = 'https://cekilgans.github.io'
-global.sgc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.sdc = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
-global.snh = 'https://chat.whatsapp.com/CF4jm8T9FVx5MnD037B1nN'
+global.sig = 'https://instagram.com/Tommylegends1'
+global.sgh = 'https://Tommylegen.github.io'
+global.sgc = 'https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A'
+global.sdc = 'https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A'
+global.snh = 'https://chat.whatsapp.com/Ju69dEfjyKn5P6j1Zohk9A'
 
 /*============== PAYMENT ==============*/
-global.pdana = '089515023118'
-global.povo = '089515023118'
-global.pgopay = '089515023118'
-global.ppulsa = '0895413767627'
-global.ppulsa2 = '088991489057'
-global.psaweria = 'https://saweria.com/DonateBot'
+global.pdana = '089505054287'
+global.povo = '089505054287'
+global.pgopay = '08905054287'
+global.ppulsa = '0895410735736'
+global.ppulsa2 = '089505054287'
+global.psaweria = 'https://saweria.com/Rajaaja'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '62895413767627'
-global.nomorown = '17242332244'
-global.namebot = 'CekilXD'
-global.nameown = 'CekilXD'
+global.nomorbot = '62895410735736'
+global.nomorown = '6289505054287'
+global.namebot = 'Depuu bod'
+global.nameown = 'Raja dev'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['17242332244', 'Sewa Bot', true],
-  ['17242332244', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
+  ['6289505054287', 'Sewa Bot', true],
+  ['6289505054287', 'Owner Gweh', true] //Ganti jd nomormu sama Namamu
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -114,13 +114,13 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 Cekil-XD 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Cekil-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺ Cekil-XD '
+global.wm = '                「 Raja-XD 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Raja-XD ˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺ Raja-XD '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By CekilGanz`
-global.author = '                「 Cekil - Xd  あ⁩ 」'
+global.titlebot = `⫹⫺ WhatsApp Bot | By RajaGANZ`
+global.author = '                「 Raja - Xd  あ⁩ 」'
 
 
 /*============== LOGO ==============*/
